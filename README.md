@@ -1,16 +1,15 @@
-## Hi there 👋
+# LEE DAE HYUN 😊
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MurHyun2&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/MurHyun2"
+  width="600"
+  height="300"
+/>
+</a>
 
-<!--
-**MurHyun2/MurHyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+![MurHyun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurHyun2&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eddy159)](https://solved.ac/rlatngus1691/)
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://velog.io/@eddy159)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:eddy152264@gmail.com)
