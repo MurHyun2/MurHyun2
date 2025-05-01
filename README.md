@@ -8,8 +8,8 @@
 </a>
 
 # Stats
-![MurHyun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurHyun2&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eddy159)](https://solved.ac/rlatngus1691/)
+![MurHyun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurHyun2&show_icons=true&theme=swift)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eddy159)](https://solved.ac/eddy159/)
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://velog.io/@eddy159)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:eddy152264@gmail.com)
