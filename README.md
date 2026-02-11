@@ -8,7 +8,8 @@
 </a>
 
 # Stats
-![MurHyun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurHyun2&show_icons=true&theme=swift)
+<!-- ![MurHyun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurHyun2&show_icons=true&theme=swift) -->
+![MurHyun2's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MurHyun2)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eddy159)
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://velog.io/@eddy159)
